@@ -45,10 +45,12 @@
             margin-left: 100px;
             display: flex;
             margin-bottom: 29px;
+            margin-right:400px;
         }
         .bottom{
             text-align: center;
             font-size: 30px;
             color: rgb(7, 7, 7);
             height: 100px;
+
         }
