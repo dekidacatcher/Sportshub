@@ -1,0 +1,41 @@
+.foot-container{
+    display: flex;
+    justify-content:center;
+    align-items:center;
+    gap: 70px;
+    padding: 20px;
+    margin-top: auto
+}
+
+footer {
+    
+    background-color: #222;
+    color: #fff;
+    z-index: 1000;
+    font-size: 17px;
+   
+}
+h3{
+     font-weight: bolder;
+}
+
+body {
+
+    padding-bottom: 0px;
+}
+
+.foot-details{
+    width: auto;
+    margin-top:10px;
+    margin-left: 40px; 
+}
+.copyright{ 
+    background-color: rgba(60, 62, 59, 0.4);
+    display: block;
+    width: 100%;
+    text-align: center;
+    padding: 15px 0;
+    border-top: 1px solid #555;
+    margin-top: 20px;
+    font-size: 14px;
+}
